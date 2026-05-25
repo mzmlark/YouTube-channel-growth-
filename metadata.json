@@ -1,0 +1,6 @@
+{
+  "name": "YT Studio Dash",
+  "description": "YouTube channel analytics dashboard with Bento Grid design theme",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
